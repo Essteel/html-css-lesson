@@ -1,0 +1,16 @@
+.slate-blue {
+    color:mediumslateblue;
+    font-weight:bold;
+}
+p {
+    color:rgb(10, 10, 105);
+}
+p:hover {
+    color:green
+}
+.big {
+    font-size: 2rem;
+}
+#second-item {
+    padding-left: 2rem;
+}
